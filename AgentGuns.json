@@ -1,0 +1,38 @@
+{
+  "Chavez": {
+    "Sentinel": {
+      "Name": "Chavez_Weapon_Base",
+      "BS": "DamageBehaviors[BehaviorName=Default].Damage",
+      "HS": "DamageBehaviors[BehaviorName=Default].CriticalDamageMultiplier"
+    },
+    "Vigilante": {
+      "Name": "Chavez_Weapon_Mod1",
+      "BS": "DamageBehaviors[BehaviorName=Default].Damage",
+      "HS": "DamageBehaviors[BehaviorName=Default].CriticalDamageMultiplier"
+    },
+    "Duke": {
+      "Name": "Chavez_Weapon_Mod2",
+      "BS": "DamageBehaviors[BehaviorName=Default].Damage",
+      "HS": "DamageBehaviors[BehaviorName=Default].CriticalDamageMultiplier"
+    }
+  },
+  "Ace": {
+    "Sentinel": 0,
+    "Vigilante": 0,
+    "Duke": 0
+  },
+  "Squire": {
+    "Sentinel": 0,
+    "Vigilante": 0,
+    "Duke": 0
+  },
+  "Larcin": {
+    "Sentinel": 0,
+    "Vigilante": 0,
+    "Duke": 0
+  },
+  "Cavalière": {
+    "Sentinel": 0,
+    "Vigilante": 0,
+    "Duke": 0}
+}
